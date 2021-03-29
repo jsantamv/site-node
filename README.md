@@ -8,7 +8,7 @@
 4. Handlebars Uso https://github.com/pillarjs/hbs
 5. https://www.npmjs.com/package//nodemon
 
-## Posibles Hostings
+## Posibles Host
 
 1. https://firebase.google.com/docs/hosting?hl=es
 2. https://azure.microsoft.com/en-ca/free/search/
