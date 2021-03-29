@@ -6,6 +6,7 @@
 2. Servidor express https://expressjs.com/en/starter/hello-world.html
 3. handlebars https://www.npmjs.com/package/handlebars
 4. Handlebars Uso https://github.com/pillarjs/hbs
+5. https://www.npmjs.com/package//nodemon
 
 ## Posibles Hostings
 
